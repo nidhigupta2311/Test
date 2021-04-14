@@ -1,4 +1,4 @@
-# Project Information
+# other
 
-* Add a brief discription about the project
-* Add the information about extra folders or files added
+* Add any other folders or files which are created for the project
+
